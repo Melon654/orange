@@ -21,7 +21,7 @@ pipeline
     {
       steps
       {
-        sh" java wow"
+        sh "java wow"
       }
     }
   }
